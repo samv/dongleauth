@@ -49,6 +49,7 @@ websites:
       tfa: Yes
       sms: Yes
       software: Yes
+      hardware: Yes
       doc: https://help.github.com/articles/about-two-factor-authentication
 
     - name: Infobip
